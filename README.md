@@ -1,4 +1,5 @@
 # 📋 Sistema de Cadastro de Clientes em Python
+---
 
 Este é um projeto simples de linha de comando desenvolvido em Python para gerenciamento de clientes. O sistema permite cadastrar, listar, buscar e remover clientes de forma prática.
 
