@@ -79,4 +79,4 @@ Você pode utilizá-lo livremente para estudos e melhorias.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por você 😄
+Desenvolvido por Henrique Hideki 😄
