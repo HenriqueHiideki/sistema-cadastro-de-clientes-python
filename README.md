@@ -27,7 +27,7 @@ Este é um projeto simples de linha de comando desenvolvido em Python para geren
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/seu-usuario/henriquehiideki.git
 ```
 
 ### 2. Acesse a pasta do projeto
@@ -39,7 +39,7 @@ cd seu-repositorio
 ### 3. Execute o sistema
 
 ```bash
-python nome_do_arquivo.py
+python cadastro.py
 ```
 
 ---
@@ -48,7 +48,7 @@ python nome_do_arquivo.py
 
 ```
 📁 projeto
- ┣ 📄 nome_do_arquivo.py
+ ┣ 📄 cadastro.py
  ┗ 📄 README.md
 ```
 
